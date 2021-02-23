@@ -1,0 +1,24 @@
+h1 {
+    color: orange; font-size: 65px; font-family: sans-serif; text-decoration: underline; 
+}
+ul {
+    background-color: peru;
+}
+.cor-texto{
+    color: blue;
+}
+p {
+    font-weight: 600; 
+}
+body {
+    font-size: 16px;
+}
+#a{
+    background-color: yellow;
+}
+#v{
+    background-color: red;
+}
+#m{
+    background-color: brown;
+}
